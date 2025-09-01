@@ -61,7 +61,7 @@ A matrix-style visual displays key metrics by product brand:
 
 ![Maven Market GIF 1](images/Maven%20Market.%20GIF%201.gif)
 
-### 🇨🇦 Canada Filtered Dashboard Insights
+###  Canada Filtered Dashboard Insights
 
 - **Monthly profit and transactions fell slightly below target**, suggesting room for growth.
 - **Return count was significantly lower than goal**, indicating strong customer satisfaction.
