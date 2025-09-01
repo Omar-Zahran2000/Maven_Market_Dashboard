@@ -75,16 +75,18 @@ A matrix-style visual displays key metrics by product brand:
 ##  Key Insights
 
 As displayed in the **Performance Notes** visual section:
+![Maven Market GIF 2](images/Maven%20Market.GIF%202.gif)
+
 -  **Plato** products achieved the **highest overall profit margin (63.55%)** in 1998.
+![Plato products drove the strongest overall profit margin (63.55%) in 1998](images/Plato%20products%20drove%20the%20strongest%20overall%20profit%20margin%20%2863.55%25%29%20in%201998.JPG)
+
 -  **Bravo** had the **lowest number of transactions** during the same period.
+![Bravo products sales have the Lowest transactions in 1998](images/Bravo%20products%20sales%20have%20the%20Lowest%20transactions%20in%201998.JPG)
+
 -  **Portland** store reached a milestone of **1,000 sales in December**, indicating strong local engagement.
+![Portland reached 1,000 sales in December to close out the year](images/Portland%20reached%201%2C000%20sales%20in%20December%20to%20close%20out%20the%20year.JPG)
 
 These notes are designed to **summarize user-relevant performance highlights** in natural language.
-
-![Maven Market GIF 2](images/Maven%20Market.GIF%202.gif)
-![Plato products drove the strongest overall profit margin (63.55%) in 1998](images/Plato%20products%20drove%20the%20strongest%20overall%20profit%20margin%20%2863.55%25%29%20in%201998.JPG)
-![Bravo products sales have the Lowest transactions in 1998](images/Bravo%20products%20sales%20have%20the%20Lowest%20transactions%20in%201998.JPG)
-![Portland reached 1,000 sales in December to close out the year](images/Portland%20reached%201%2C000%20sales%20in%20December%20to%20close%20out%20the%20year.JPG)
 
 ---
 
