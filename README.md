@@ -67,6 +67,7 @@ A matrix-style visual displays key metrics by product brand:
 - **Return count was significantly lower than goal**, indicating strong customer satisfaction.
 - **Top brands like Ebony and Hermanos performed well** in both transactions and profit.
 - **Most sales activity is concentrated in British Columbia**, especially near Vancouver and Saanich.
+
 ![Canada Filtered](images/Canada%20Filtered.JPG)
 
 ###  Weekly Revenue Trend (Time Series)
